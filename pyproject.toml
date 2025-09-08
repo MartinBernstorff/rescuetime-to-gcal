@@ -18,7 +18,7 @@ dependencies = [
 dev = [
   "diff-cover==8.0.3",
   "pyright==1.1.350",
-  "pytest==7.4.0",
+  "pytest==8.4.2",
   "pytest-cov==4.1.0",
   "pytest-testmon==2.1.0",
   "pytest-xdist==3.5.0",
